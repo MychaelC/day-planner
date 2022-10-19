@@ -8,8 +8,8 @@ See live link here: https://mychaelc.github.io/day-planner/
 
 # What It Looks Like
 
-![screenshot](./Screen%20Shot%202022-10-15%20at%204.28.14%20PM.png)
 ![screenshot](./Screen%20Shot%202022-10-15%20at%204.34.28%20PM.png)
+![screenshot](./Screen%20Shot%202022-10-15%20at%204.28.14%20PM.png)
 
 # Technologies
 
